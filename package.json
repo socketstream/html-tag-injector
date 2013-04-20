@@ -1,0 +1,18 @@
+{
+  "name": "html-tag-injector",
+  "description": "Injects CSS and JS asset tags into a HTML document",
+  "version": "0.0.1",
+  "author": "Owen Barnes <owen@socketstream.org>",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "1.8.x",
+    "should": "1.2.x"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
